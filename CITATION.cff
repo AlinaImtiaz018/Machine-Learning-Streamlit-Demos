@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Machine Learning Streamlit Demos"
+message: "If you use this repository, please cite it as follows."
+type: software
+
+authors:
+  - family-names: "Imtiaz"
+    given-names: "Alina"
+
+repository-code: "https://github.com/AlinaImtiaz018/streamlit-demos"
+
+license: MIT
+
+version: "1.0.0"
+
+date-released: 2026-06-29
+
+abstract: >
+  Interactive Streamlit applications demonstrating machine learning projects,
+  including predictive models, data visualization, and performance evaluation.
